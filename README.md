@@ -2,7 +2,7 @@
 This report provides a detailed analysis of revenue and profitability drivers within banking operations, aimed at uncovering key insights across customer segments, product categories, and transaction channels.
 ## __Data_Source__
 Link to the dataset 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
-https://zoomchartswebstorage.blob.core.windows.net/contest/files/Banking_DataSet_FP20Analytics_Challenge_27.zip
+https://app.powerbi.com/view?r=eyJrIjoiMDE5YjlhMTMtZGQ2OS00OTdmLWFkYzAtZWEzYzdhZjQ2OWUwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 ## __Dashboard__
 Interact with the dashboard 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻  https://zoomchartswebstorage.blob.core.windows.net/contest/files/Banking_DataSet_FP20Analytics_Challenge_27.ziphttps://zoomchartswebstorage.blob.core.windows.net/contest/files/Banking_DataSet_FP20Analytics_Challenge_27.zip
 ## 📊 __Objective__
